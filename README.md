@@ -1,4 +1,4 @@
-📊 NIFTY 50 Stock Portfolio Analysis
+## 📊 NIFTY 50 Stock Portfolio Analysis
 
 📝 Project Overview
 This project analyzes the NIFTY 50 index constituents using three distinct investment strategies:
